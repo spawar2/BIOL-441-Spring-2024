@@ -5,3 +5,4 @@ Bioinformatics (topics including Introduction to genomics/proteomics/bioinforma
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science [Semester class review:](https://youtu.be/Pju8ecWWRAw) Date created/updated: December, 9, 2024.
 [Claflin University, Orangeburg, South Carolina, United States of America (USA).](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
 ![download](https://github.com/user-attachments/assets/d32dab1b-744e-4781-904f-6c00055b1422)
+^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
